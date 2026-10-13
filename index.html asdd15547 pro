@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>هاك من صنع asdd15547</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a0000 0%, #4a0000 50%, #2d0000 100%);
+            min-height: 100vh;
+            padding: 15px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: #ff3333;
+            margin-bottom: 20px;
+            padding: 20px;
+            background: linear-gradient(135deg, #2d0000 0%, #1a0000 100%);
+            border-radius: 15px;
+            border: 2px solid #8b0000;
+            box-shadow: 0 0 20px rgba(139, 0, 0, 0.5);
+        }
+
+        h1 {
+            font-size: 1.8em;
+            margin-bottom: 5px;
+            text-shadow: 0 0 10px rgba(255, 51, 51, 0.8);
+            color: #ff4444;
+        }
+
+        .subtitle {
+            font-size: 0.95em;
+            color: #cc0000;
+        }
+
+        .download-section {
+            background: linear-gradient(135deg, #2d0000 0%, #1a0000 100%);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 15px;
+            border: 1px solid #660000;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+            transition: all 0.3s ease;
+        }
+
+        .download-section:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(139, 0, 0, 0.6);
+            border-color: #8b0000;
+        }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 12px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #4a0000;
+        }
+
+        .icon {
+            width: 40px;
+            height: 40px;
+            margin-left: 12px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+        }
+
+        .android-icon {
+            background: linear-gradient(135deg, #00aa00, #00cc00);
+        }
+
+        .ios-icon {
+            background: linear-gradient(135deg, #333, #666);
+            color: white;
+        }
+
+        .section-title {
+            font-size: 1.4em;
+            color: #ff6666;
+            font-weight: bold;
+        }
+
+        .version-tag {
+            background: linear-gradient(135deg, #8b0000, #cc0000);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 15px;
+            font-size: 0.8em;
+            margin-right: auto;
+            font-weight: bold;
+        }
+
+        .description {
+            color: #ff9999;
+            margin-bottom: 12px;
+            line-height: 1.5;
+            font-size: 0.9em;
+        }
+
+        .features {
+            list-style: none;
+            margin-bottom: 15px;
+            font-size: 0.85em;
+        }
+
+        .features li {
+            padding: 5px 0;
+            color: #ffcccc;
+            padding-right: 20px;
+            position: relative;
+        }
+
+        .features li:before {
+            content: "✓";
+            position: absolute;
+            right: 0;
+            color: #ff3333;
+            font-weight: bold;
+        }
+
+        .download-btn {
+            display: block;
+            width: 100%;
+            padding: 14px;
+            background: linear-gradient(135deg, #cc0000 0%, #8b0000 100%);
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 1.1em;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            border: 1px solid #ff0000;
+            box-shadow: 0 3px 10px rgba(204, 0, 0, 0.4);
+        }
+
+        .download-btn:hover {
+            background: linear-gradient(135deg, #ff0000 0%, #cc0000 100%);
+            transform: translateY(-1px);
+            box-shadow: 0 5px 15px rgba(255, 0, 0, 0.6);
+        }
+
+        footer {
+            text-align: center;
+            color: #cc0000;
+            margin-top: 25px;
+            padding: 15px;
+            font-size: 0.9em;
+            border-top: 1px solid #4a0000;
+        }
+
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 1.4em;
+            }
+            
+            .download-section {
+                padding: 15px;
+            }
+            
+            .section-title {
+                font-size: 1.2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎮 هاك من صنع asdd15547</h1>
+            <p class="subtitle">أفضل أدوات التعديل متاحة الآن</p>
+        </header>
+
+        <!-- Arceus NEO Android -->
+        <div class="download-section">
+            <div class="section-header">
+                <div class="icon android-icon">🤖</div>
+                <h2 class="section-title">Arceus NEO</h2>
+                <span class="version-tag">للأندرويد</span>
+            </div>
+            <p class="description">
+                النسخة الأقوى والأحدث من Arceus X NEO للأندرويد
+            </p>
+            <ul class="features">
+                <li>تثبيت سهل وسريع</li>
+                <li>أداء عالي وسلاسة</li>
+                <li>إعدادات آمنة</li>
+            </ul>
+            <a href="https://release-assets.githubusercontent.com/github-production-release-asset/1155483260/ce0cd014-284f-43b0-b385-da78b628aef8?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-13T19%3A41%3A19Z&rscd=attachment%3B+filename%3DRoblox.Arceus.X.NEO.2.3.7.apk&rsct=application%2Fvnd.android.package-archive&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-13T18%3A40%3A31Z&ske=2026-10-13T19%3A41%3A19Z&sks=b&skv=2018-11-09&sig=bULXJIri8N7a5Tm5xRpvC%2FUisIFF4cEby8FguQ6M7Xw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MTkyMjA1MCwibmJmIjoxNzkxOTE4NDUwLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.z22U493Cqc4rmACXMCkfhYuaRhGHNiPrw9SbL8yZmMw&response-content-disposition=attachment%3B%20filename%3DRoblox.Arceus.X.NEO.2.3.7.apk&response-content-type=application%2Fvnd.android.package-archive" class="download-btn">
+                📥 تحميل للأندرويد
+            </a>
+        </div>
+
+        <!-- Arceus NEO Pro iOS -->
+        <div class="download-section">
+            <div class="section-header">
+                <div class="icon ios-icon">🍎</div>
+                <h2 class="section-title">Arceus NEO Pro</h2>
+                <span class="version-tag">للآيفون</span>
+            </div>
+            <p class="description">
+                النسخة الاحترافية من Arceus X للأجهزة iOS
+            </p>
+            <ul class="features">
+                <li>واجهة نظيفة</li>
+                <li>إعدادات آمنة</li>
+                <li>دليل شامل</li>
+            </ul>
+            <a href="https://download2393.mediafire.com/38u451a5yzzgoc9olC-W8xZ9x0M0A22gSe15b3lxPzoF674KPmjVuSkz7n8KOiFrUykUgtnvqh1gkvuyDRXG4R0q-cpOzRIbaclU_KC4re2ubbi3t90uqOnWUWCSQFsSdZ-1DbMU8Kc2TIKh0NL1D819SRTePEZSidf0BT6TMP_0oA/6lcgdmn244ta2n5/ArceusX_1.6.4_2.668.658.ipa" class="download-btn">
+                📥 تحميل للـ iOS
+            </a>
+        </div>
+
+        <!-- Delta Pro Android -->
+        <div class="download-section">
+            <div class="section-header">
+                <div class="icon android-icon">⚡</div>
+                <h2 class="section-title">Delta Pro</h2>
+                <span class="version-tag">للأندرويد</span>
+            </div>
+            <p class="description">
+                Delta Pro - الأداة الاحترافية للأندرويد
+            </p>
+            <ul class="features">
+                <li>سرعة عالية</li>
+                <li>خفيف على الجهاز</li>
+                <li>ميزات متقدمة</li>
+            </ul>
+            <a href="https://delta.filenetwork.vip/file/Delta-2.741.1062.apk" class="download-btn">
+                 تحميل Delta Pro
+            </a>
+        </div>
+
+        <footer>
+            <p>© 2026 - تم التطوير بواسطة asdd15547</p>
+        </footer>
+    </div>
+</body>
+</html>
